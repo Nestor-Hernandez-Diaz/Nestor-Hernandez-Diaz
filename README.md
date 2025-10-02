@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Nestor%20Hernández%20Díaz&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Typing SVG con letras blancas -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollador+Full+Stack;Apasionado+por+la+Tecnolog%C3%ADa+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+la+Tecnolog%C3%ADa+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <br/>
 
