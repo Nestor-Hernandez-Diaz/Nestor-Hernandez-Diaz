@@ -14,35 +14,48 @@ Apasionado por el desarrollo de software, las interfaces modernas y la creación
 
 <div align="center">
 
-**Lenguajes**   **Frontend**   **Backend & BD**
-
-**Bases sólidas en lenguajes de propósito general**   **Interfaces interactivas y responsivas**   **Arquitecturas robustas del lado servidor**
-
-<br>
-
-**Lenguajes**  
-<img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/> 
-<img src="https://skillicons.dev/icons?i=cpp" width="42" alt="C++"/> 
-<img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript"/> 
-<img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript"/> 
-<img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/>
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html" width="42" alt="HTML"/> 
-<img src="https://skillicons.dev/icons?i=css" width="42" alt="CSS"/> 
-<img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/> 
-<img src="https://skillicons.dev/icons?i=alpinejs" width="42" alt="Alpine.js"/> 
-<img src="https://skillicons.dev/icons?i=astro" width="42" alt="Astro"/> 
-<img src="https://skillicons.dev/icons?i=tailwind" width="42" alt="Tailwind CSS"/>
-
-**Backend & BD**  
-<img src="https://skillicons.dev/icons?i=nodejs" width="42" alt="Node.js"/> 
-<img src="https://skillicons.dev/icons?i=express" width="42" alt="Express"/> 
-<img src="https://skillicons.dev/icons?i=spring" width="42" alt="Spring Boot"/> 
-<img src="https://skillicons.dev/icons?i=mysql" width="42" alt="MySQL"/> 
-<img src="https://skillicons.dev/icons?i=postgresql" width="42" alt="PostgreSQL"/> 
-<img src="https://skillicons.dev/icons?i=mariadb" width="42" alt="MariaDB"/> 
-<img src="https://skillicons.dev/icons?i=sqlserver" width="42" alt="SQL Server"/>
+<table>
+  <thead>
+    <tr>
+      <th colspan="3" align="center">
+        <strong>Bases sólidas en lenguajes de propósito general</strong>  <strong>Interfaces interactivas y responsivas</strong>  <strong>Arquitecturas robustas del lado servidor</strong>
+      </th>
+    </tr>
+    <tr>
+      <th><strong>Lenguajes</strong></th>
+      <th><strong>Frontend</strong></th>
+      <th><strong>Backend & BD</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br>Java<br><br>
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/><br>C++<br><br>
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript"/><br>JavaScript<br><br>
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript"/><br>TypeScript<br><br>
+        <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br>Python
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/><br>HTML<br><br>
+        <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/><br>CSS<br><br>
+        <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br>React<br><br>
+        <img src="https://skillicons.dev/icons?i=alpinejs" width="48" alt="Alpine.js"/><br>Alpine.js<br><br>
+        <img src="https://skillicons.dev/icons?i=astro" width="48" alt="Astro"/><br>Astro<br><br>
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/><br>Tailwind CSS
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br>Node.js<br><br>
+        <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/><br>Express<br><br>
+        <img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot"/><br>Spring Boot<br><br>
+        <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br>MySQL<br><br>
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL"/><br>PostgreSQL<br><br>
+        <img src="https://skillicons.dev/icons?i=mariadb" width="48" alt="MariaDB"/><br>MariaDB<br><br>
+        <img src="https://skillicons.dev/icons?i=sqlserver" width="48" alt="SQL Server"/><br>SQL Server
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
