@@ -45,7 +45,7 @@ Apasionado por el desarrollo de software, las interfaces modernas y la creación
         <img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot"/><br>Spring Boot<br><br>
         <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br>MySQL<br><br>
         <img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL"/><br>PostgreSQL<br><br>
-        <img src="(https://github.com/onemarc/tech-icons/blob/main/icons/mariadb.svg)" width="48" alt="MariaDB"/><br>MariaDB<br><br>
+        <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mariadb.svg" width="48" alt="MariaDB"/><br>MariaDB<br><br>
         <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver.svg" width="48" alt="SQL Server"/><br>SQL Server
       </td>
     </tr>
