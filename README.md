@@ -1,70 +1,61 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Nestor%20Hernández%20Díaz&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Apasionado+por+la+Tecnolog%C3%ADa+%F0%9F%92%BB" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://portafolio-nestor-hernandez.netlify.app/)
-[![Email](https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge&logoColor=white)](mailto:nestorhernandezdiaz73@gmail.com)
-
-</div>
-
----
-
 ### 👋 Hello, I'm Nestor Hernández Díaz
 
 Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad Nacional de San Martín (Perú 🇵🇪).  
 
-Apasionado por el **desarrollo de software**, **análisis de datos** e **IoT**. Siempre estoy aprendiendo y buscando crear soluciones que generen impacto real.
+Apasionado por el desarrollo de software, las interfaces modernas y la creación de soluciones prácticas que resuelvan problemas reales. Me gusta construir aplicaciones completas, desde el frontend hasta la lógica de negocio y bases de datos.
 
-- 🌱 Actualmente desarrollando un **Sistema de Ventas**
-- 🔭 Abierto a colaboraciones y nuevos proyectos
-- 💡 Objetivo: Convertir ideas en aplicaciones útiles
+- 🌱 Actualmente trabajando en proyectos full-stack y chatbots
+- 🔭 Busco oportunidades para colaborar y seguir creciendo
+- 💡 Creo que la tecnología debe ser útil y accesible
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías
 
 <div align="center">
 
-**Lenguajes**  
-![HTML5](https://skillicons.dev/icons?i=html) 
-![CSS3](https://skillicons.dev/icons?i=css) 
-![Java](https://skillicons.dev/icons?i=java) 
-![Python](https://skillicons.dev/icons?i=python) 
-![C++](https://skillicons.dev/icons?i=cpp)
+| **Lenguajes** | **Frontend** | **Backend & BD** |
+|---------------|--------------|------------------|
+| **Bases sólidas** en lenguajes de propósito general | Interfaces interactivas y responsivas | Arquitecturas robustas del lado servidor |
 
-**Bases de Datos**  
-![MySQL](https://skillicons.dev/icons?i=mysql) 
-![MariaDB](https://skillicons.dev/icons?i=mariadb) 
-![SQL Server](https://skillicons.dev/icons?i=sqlserver)
-
-**Datos & IoT**  
-![Jupyter](https://skillicons.dev/icons?i=jupyter) 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
-![Arduino](https://skillicons.dev/icons?i=arduino)
+| • Java<br>• C++<br>• JavaScript<br>• TypeScript<br>• Python | • HTML<br>• CSS<br>• React<br>• Alpine.js<br>• Astro<br>• Tailwind CSS | • Node.js<br>• Express<br>• Spring Boot<br>• MySQL<br>• PostgreSQL<br>• MariaDB<br>• SQL Server |
 
 </div>
+
+---
+
+### 📂 Proyectos Destacados
+
+- **[New Hype Project](https://github.com/Nestor-Hernandez-Diaz/New-Hype-Project)**  
+  Frontend monorepo para un sistema ERP multi-tenant (ventas, inventario y administración) construido con **React 19 + TypeScript + Tailwind + Spring Boot + MySQL**.
+
+- **[MINIMARKET-PRO](https://github.com/Nestor-Hernandez-Diaz/MINIMARKET-PRO)**  
+  Sistema SaaS para gestión de minimarkets con control de inventario, lotes (FEFO), facturación y preparación para POS y tienda online.
+
+- **[Chatbot Inmaculada](https://github.com/Nestor-Hernandez-Diaz/chatbot-inmaculada)**  
+  Chatbot de WhatsApp inteligente para un supermercado, que permite consultas de stock, precios, delivery y horarios en tiempo real (**Node.js + Express + Prisma + PostgreSQL**).
+
+- **[Goats del Fútbol](https://github.com/Nestor-Hernandez-Diaz/goats-del-futbol)**  
+  Wiki interactiva y responsive sobre Messi, Cristiano Ronaldo y Neymar con comparaciones, timelines y galerías animadas (HTML + CSS + JavaScript).
 
 ---
 
 ### 📫 Contáctame
 
-¿Quieres hablar de un proyecto, colaborar o simplemente saludar?  
+¿Tienes un proyecto en mente o quieres colaborar? ¡Hablemos!
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nestorhernandezdiaz73@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-nestor-hernandez.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nestorhernandez73@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-hernandez-diaz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://nestor-hernandez-diaz.vercel.app/)
 
 </div>
 
 ---
 
-*"Si puedes imaginarlo, puedes programarlo"* ⚡
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nestor-Hernandez-Diaz&color=00D9FF&style=for-the-badge&label=VISITAS)
+**"Si puedes imaginarlo, puedes programarlo"** ⚡
+
+</div>
