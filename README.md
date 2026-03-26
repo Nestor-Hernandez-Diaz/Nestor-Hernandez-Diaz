@@ -17,11 +17,6 @@ Apasionado por el desarrollo de software, las interfaces modernas y la creación
 <table>
   <thead>
     <tr>
-      <th colspan="3" align="center">
-        <strong>Bases sólidas en lenguajes de propósito general</strong>  <strong>Interfaces interactivas y responsivas</strong>  <strong>Arquitecturas robustas del lado servidor</strong>
-      </th>
-    </tr>
-    <tr>
       <th><strong>Lenguajes</strong></th>
       <th><strong>Frontend</strong></th>
       <th><strong>Backend & BD</strong></th>
@@ -50,8 +45,8 @@ Apasionado por el desarrollo de software, las interfaces modernas y la creación
         <img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot"/><br>Spring Boot<br><br>
         <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br>MySQL<br><br>
         <img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL"/><br>PostgreSQL<br><br>
-        <img src="https://skillicons.dev/icons?i=mariadb" width="48" alt="MariaDB"/><br>MariaDB<br><br>
-        <img src="https://skillicons.dev/icons?i=sqlserver" width="48" alt="SQL Server"/><br>SQL Server
+        <img src="(https://github.com/onemarc/tech-icons/blob/main/icons/mariadb.svg)" width="48" alt="MariaDB"/><br>MariaDB<br><br>
+        <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver.svg" width="48" alt="SQL Server"/><br>SQL Server
       </td>
     </tr>
   </tbody>
