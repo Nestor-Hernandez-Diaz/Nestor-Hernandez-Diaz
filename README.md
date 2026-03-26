@@ -14,11 +14,17 @@ Apasionado por el desarrollo de software, las interfaces modernas y la creación
 
 <div align="center">
 
+**Bases sólidas en lenguajes de propósito general**  **Interfaces interactivas y responsivas**  **Arquitecturas robustas del lado servidor**
+
 | **Lenguajes** | **Frontend** | **Backend & BD** |
 |---------------|--------------|------------------|
-| **Bases sólidas** en lenguajes de propósito general | Interfaces interactivas y responsivas | Arquitecturas robustas del lado servidor |
-
-| • Java<br>• C++<br>• JavaScript<br>• TypeScript<br>• Python | • HTML<br>• CSS<br>• React<br>• Alpine.js<br>• Astro<br>• Tailwind CSS | • Node.js<br>• Express<br>• Spring Boot<br>• MySQL<br>• PostgreSQL<br>• MariaDB<br>• SQL Server |
+| <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/><br>Java | <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML"/><br>HTML | <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/><br>Node.js |
+| <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/><br>C++ | <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS"/><br>CSS | <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express"/><br>Express |
+| <img src="https://skillicons.dev/icons?i=javascript" width="40" height="40" alt="JavaScript"/><br>JavaScript | <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/><br>React | <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Boot"/><br>Spring Boot |
+| <img src="https://skillicons.dev/icons?i=typescript" width="40" height="40" alt="TypeScript"/><br>TypeScript | <img src="https://skillicons.dev/icons?i=alpinejs" width="40" height="40" alt="Alpine.js"/><br>Alpine.js | <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/><br>MySQL |
+| <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/><br>Python | <img src="https://skillicons.dev/icons?i=astro" width="40" height="40" alt="Astro"/><br>Astro | <img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL"/><br>PostgreSQL |
+| | <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS"/><br>Tailwind CSS | <img src="https://skillicons.dev/icons?i=mariadb" width="40" height="40" alt="MariaDB"/><br>MariaDB |
+| | | <img src="https://skillicons.dev/icons?i=sqlserver" width="40" height="40" alt="SQL Server" style="filter: brightness(1.1);"/><br>SQL Server |
 
 </div>
 
