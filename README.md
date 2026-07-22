@@ -2,7 +2,7 @@
 
 Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad Nacional de San Martín (Perú 🇵🇪).  
 
-Apasionado por el desarrollo de software, las interfaces modernas y la creación de soluciones prácticas que resuelvan problemas reales. Me gusta construir aplicaciones completas, desde el frontend hasta la lógica de negocio y bases de datos.
+Apasionado por la tecnologia, las interfaces modernas y la creación de soluciones prácticas que resuelvan problemas reales. Me gusta construir aplicaciones completas, desde el frontend hasta la lógica de negocio y bases de datos.
 
 - 🌱 Actualmente trabajando en proyectos innovadores
 - 🔭 Busco oportunidades para colaborar y seguir creciendo
