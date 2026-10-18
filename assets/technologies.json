@@ -1,0 +1,107 @@
+[
+  {
+    "category": "Lenguajes",
+    "icons": [
+      {
+        "id": "java",
+        "name": "Java",
+        "url": "https://skillicons.dev/icons?i=java"
+      },
+      {
+        "id": "c",
+        "name": "C++",
+        "url": "https://skillicons.dev/icons?i=cpp"
+      },
+      {
+        "id": "javascript",
+        "name": "JavaScript",
+        "url": "https://skillicons.dev/icons?i=javascript"
+      },
+      {
+        "id": "typescript",
+        "name": "TypeScript",
+        "url": "https://skillicons.dev/icons?i=typescript"
+      },
+      {
+        "id": "python",
+        "name": "Python",
+        "url": "https://skillicons.dev/icons?i=python"
+      }
+    ]
+  },
+  {
+    "category": "Frontend",
+    "icons": [
+      {
+        "id": "html",
+        "name": "HTML",
+        "url": "https://skillicons.dev/icons?i=html"
+      },
+      {
+        "id": "css",
+        "name": "CSS",
+        "url": "https://skillicons.dev/icons?i=css"
+      },
+      {
+        "id": "react",
+        "name": "React",
+        "url": "https://skillicons.dev/icons?i=react"
+      },
+      {
+        "id": "alpine-js",
+        "name": "Alpine.js",
+        "url": "https://skillicons.dev/icons?i=alpinejs"
+      },
+      {
+        "id": "astro",
+        "name": "Astro",
+        "url": "https://skillicons.dev/icons?i=astro"
+      },
+      {
+        "id": "tailwind-css",
+        "name": "Tailwind CSS",
+        "url": "https://skillicons.dev/icons?i=tailwind"
+      }
+    ]
+  },
+  {
+    "category": "Backend & BD",
+    "icons": [
+      {
+        "id": "node-js",
+        "name": "Node.js",
+        "url": "https://skillicons.dev/icons?i=nodejs"
+      },
+      {
+        "id": "express",
+        "name": "Express",
+        "url": "https://skillicons.dev/icons?i=express"
+      },
+      {
+        "id": "spring-boot",
+        "name": "Spring Boot",
+        "url": "https://skillicons.dev/icons?i=spring"
+      },
+      {
+        "id": "mysql",
+        "name": "MySQL",
+        "url": "https://skillicons.dev/icons?i=mysql"
+      },
+      {
+        "id": "postgresql",
+        "name": "PostgreSQL",
+        "url": "https://skillicons.dev/icons?i=postgresql"
+      },
+      {
+        "id": "mariadb",
+        "name": "MariaDB",
+        "url": "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mariadb.svg"
+      },
+      {
+        "id": "sql-server",
+        "name": "SQL Server",
+        "url": "https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mssqlserver.svg"
+      }
+    ]
+  }
+]
