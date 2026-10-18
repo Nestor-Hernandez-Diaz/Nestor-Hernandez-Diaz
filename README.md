@@ -10,65 +10,45 @@ Apasionado por la tecnologia, las interfaces modernas y la creación de solucion
 
 ---
 
-### 🛠️ Tecnologías
-
-<div align="center">
+### 📂 Proyectos destacados
 
 <table>
-  <thead>
-    <tr>
-      <th><strong>Lenguajes</strong></th>
-      <th><strong>Frontend</strong></th>
-      <th><strong>Backend & BD</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/><br>Java<br><br>
-        <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/><br>C++<br><br>
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" alt="JavaScript"/><br>JavaScript<br><br>
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" alt="TypeScript"/><br>TypeScript<br><br>
-        <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/><br>Python
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/><br>HTML<br><br>
-        <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/><br>CSS<br><br>
-        <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/><br>React<br><br>
-        <img src="https://skillicons.dev/icons?i=alpinejs" width="48" alt="Alpine.js"/><br>Alpine.js<br><br>
-        <img src="https://skillicons.dev/icons?i=astro" width="48" alt="Astro"/><br>Astro<br><br>
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/><br>Tailwind CSS
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/><br>Node.js<br><br>
-        <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express"/><br>Express<br><br>
-        <img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring Boot"/><br>Spring Boot<br><br>
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/><br>MySQL<br><br>
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" alt="PostgreSQL"/><br>PostgreSQL<br><br>
-        <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mariadb.svg" width="48" alt="MariaDB"/><br>MariaDB<br><br>
-        <img src="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver.svg" width="48" alt="SQL Server"/><br>SQL Server
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <th width="50%"><a href="https://github.com/Nestor-Hernandez-Diaz/New-Hype-Project">🚀 New Hype Project</a></th>
+    <th width="50%"><a href="https://github.com/Nestor-Hernandez-Diaz/MINIMARKET-PRO">🛒 MINIMARKET-PRO</a></th>
+  </tr>
+  <tr>
+    <td valign="top">Frontend monorepo para un ERP multi-tenant con ventas, inventario y administración.<br><br><strong>React 19 · TypeScript · Tailwind CSS · Spring Boot · MySQL</strong></td>
+    <td valign="top">Sistema SaaS para gestionar minimarkets: inventario, lotes (FEFO) y facturación, con preparación para POS y tienda online.</td>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/Nestor-Hernandez-Diaz/chatbot-inmaculada">💬 Chatbot Inmaculada</a></th>
+    <th><a href="https://github.com/Nestor-Hernandez-Diaz/goats-del-futbol">⚽ Goats del Fútbol</a></th>
+  </tr>
+  <tr>
+    <td valign="top">Chatbot de WhatsApp para un supermercado con consultas de stock, precios, delivery y horarios en tiempo real.<br><br><strong>Node.js · Express · Prisma · PostgreSQL</strong></td>
+    <td valign="top">Wiki interactiva y responsive sobre Messi, Cristiano Ronaldo y Neymar, con comparaciones, líneas de tiempo y galerías animadas.<br><br><strong>HTML · CSS · JavaScript</strong></td>
+  </tr>
 </table>
-
-</div>
 
 ---
 
-### 📂 Proyectos Destacados
+### 🛠️ Tecnologías
 
-- **[New Hype Project](https://github.com/Nestor-Hernandez-Diaz/New-Hype-Project)**  
-  Frontend monorepo para un sistema ERP multi-tenant (ventas, inventario y administración) construido con **React 19 + TypeScript + Tailwind + Spring Boot + MySQL**.
-
-- **[MINIMARKET-PRO](https://github.com/Nestor-Hernandez-Diaz/MINIMARKET-PRO)**  
-  Sistema SaaS para gestión de minimarkets con control de inventario, lotes (FEFO), facturación y preparación para POS y tienda online.
-
-- **[Chatbot Inmaculada](https://github.com/Nestor-Hernandez-Diaz/chatbot-inmaculada)**  
-  Chatbot de WhatsApp inteligente para un supermercado, que permite consultas de stock, precios, delivery y horarios en tiempo real (**Node.js + Express + Prisma + PostgreSQL**).
-
-- **[Goats del Fútbol](https://github.com/Nestor-Hernandez-Diaz/goats-del-futbol)**  
-  Wiki interactiva y responsive sobre Messi, Cristiano Ronaldo y Neymar con comparaciones, timelines y galerías animadas (HTML + CSS + JavaScript).
+<table>
+  <tr>
+    <th align="left">Lenguajes</th>
+    <td><img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/>&nbsp; <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" alt="C++"/>&nbsp; <img src="https://skillicons.dev/icons?i=javascript" width="48" title="JavaScript" alt="JavaScript"/>&nbsp; <img src="https://skillicons.dev/icons?i=typescript" width="48" title="TypeScript" alt="TypeScript"/>&nbsp; <img src="https://skillicons.dev/icons?i=python" width="48" title="Python" alt="Python"/></td>
+  </tr>
+  <tr>
+    <th align="left">Frontend</th>
+    <td><img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" alt="HTML"/>&nbsp; <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" alt="CSS"/>&nbsp; <img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React"/>&nbsp; <img src="https://skillicons.dev/icons?i=alpinejs" width="48" title="Alpine.js" alt="Alpine.js"/>&nbsp; <img src="https://skillicons.dev/icons?i=astro" width="48" title="Astro" alt="Astro"/>&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" alt="Tailwind CSS"/></td>
+  </tr>
+  <tr>
+    <th align="left">Backend &amp; BD</th>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" alt="Node.js"/>&nbsp; <img src="https://skillicons.dev/icons?i=express" width="48" title="Express" alt="Express"/>&nbsp; <img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot" alt="Spring Boot"/>&nbsp; <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" alt="MySQL"/>&nbsp; <img src="https://skillicons.dev/icons?i=postgresql" width="48" title="PostgreSQL" alt="PostgreSQL"/>&nbsp; <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mariadb.svg" width="48" title="MariaDB" alt="MariaDB"/>&nbsp; <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mssqlserver.svg" width="48" title="SQL Server" alt="SQL Server"/></td>
+  </tr>
+</table>
 
 ---
 
