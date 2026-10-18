@@ -35,18 +35,18 @@ Apasionado por la tecnologia, las interfaces modernas y la creación de solucion
 
 ### 🛠️ Tecnologías
 
-<table>
+<table width="100%">
   <tr>
-    <th align="left">Lenguajes</th>
-    <td><img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/>&nbsp; <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" alt="C++"/>&nbsp; <img src="https://skillicons.dev/icons?i=javascript" width="48" title="JavaScript" alt="JavaScript"/>&nbsp; <img src="https://skillicons.dev/icons?i=typescript" width="48" title="TypeScript" alt="TypeScript"/>&nbsp; <img src="https://skillicons.dev/icons?i=python" width="48" title="Python" alt="Python"/></td>
+    <th align="left" width="20%">Lenguajes</th>
+    <td width="80%"><img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/>&nbsp; <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" alt="C++"/>&nbsp; <img src="https://skillicons.dev/icons?i=javascript" width="48" title="JavaScript" alt="JavaScript"/>&nbsp; <img src="https://skillicons.dev/icons?i=typescript" width="48" title="TypeScript" alt="TypeScript"/>&nbsp; <img src="https://skillicons.dev/icons?i=python" width="48" title="Python" alt="Python"/></td>
   </tr>
   <tr>
-    <th align="left">Frontend</th>
-    <td><img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" alt="HTML"/>&nbsp; <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" alt="CSS"/>&nbsp; <img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React"/>&nbsp; <img src="https://skillicons.dev/icons?i=alpinejs" width="48" title="Alpine.js" alt="Alpine.js"/>&nbsp; <img src="https://skillicons.dev/icons?i=astro" width="48" title="Astro" alt="Astro"/>&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" alt="Tailwind CSS"/></td>
+    <th align="left" width="20%">Frontend</th>
+    <td width="80%"><img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" alt="HTML"/>&nbsp; <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" alt="CSS"/>&nbsp; <img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React"/>&nbsp; <img src="https://skillicons.dev/icons?i=alpinejs" width="48" title="Alpine.js" alt="Alpine.js"/>&nbsp; <img src="https://skillicons.dev/icons?i=astro" width="48" title="Astro" alt="Astro"/>&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" alt="Tailwind CSS"/></td>
   </tr>
   <tr>
-    <th align="left">Backend &amp; BD</th>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" alt="Node.js"/>&nbsp; <img src="https://skillicons.dev/icons?i=express" width="48" title="Express" alt="Express"/>&nbsp; <img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot" alt="Spring Boot"/>&nbsp; <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" alt="MySQL"/>&nbsp; <img src="https://skillicons.dev/icons?i=postgresql" width="48" title="PostgreSQL" alt="PostgreSQL"/>&nbsp; <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mariadb.svg" width="48" title="MariaDB" alt="MariaDB"/>&nbsp; <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mssqlserver.svg" width="48" title="SQL Server" alt="SQL Server"/></td>
+    <th align="left" width="20%">Backend &amp; BD</th>
+    <td width="80%"><img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" alt="Node.js"/>&nbsp; <img src="https://skillicons.dev/icons?i=express" width="48" title="Express" alt="Express"/>&nbsp; <img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot" alt="Spring Boot"/>&nbsp; <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" alt="MySQL"/>&nbsp; <img src="https://skillicons.dev/icons?i=postgresql" width="48" title="PostgreSQL" alt="PostgreSQL"/>&nbsp; <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mariadb.svg" width="48" title="MariaDB" alt="MariaDB"/>&nbsp; <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mssqlserver.svg" width="48" title="SQL Server" alt="SQL Server"/></td>
   </tr>
 </table>
 
