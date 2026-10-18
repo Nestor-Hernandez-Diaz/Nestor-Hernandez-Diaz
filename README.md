@@ -35,54 +35,13 @@ Apasionado por la tecnologia, las interfaces modernas y la creación de solucion
 
 ### 🛠️ Tecnologías
 
-<!-- Para agregar una tecnología, añade una celda td con el mismo ancho y alineación dentro de su categoría. -->
-<table width="100%">
-  <tr>
-    <th align="left" nowrap>Lenguajes</th>
-    <td width="10000">
-      <table width="100%">
-        <tr>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" alt="C++"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=javascript" width="48" title="JavaScript" alt="JavaScript"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=typescript" width="48" title="TypeScript" alt="TypeScript"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=python" width="48" title="Python" alt="Python"/></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <th align="left" nowrap>Frontend</th>
-    <td width="10000">
-      <table width="100%">
-        <tr>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" alt="HTML"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" alt="CSS"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=alpinejs" width="48" title="Alpine.js" alt="Alpine.js"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=astro" width="48" title="Astro" alt="Astro"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" alt="Tailwind CSS"/></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <th align="left" nowrap>Backend &amp; BD</th>
-    <td width="10000">
-      <table width="100%">
-        <tr>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" alt="Node.js"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=express" width="48" title="Express" alt="Express"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot" alt="Spring Boot"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" alt="MySQL"/></td>
-        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="48" title="PostgreSQL" alt="PostgreSQL"/></td>
-        <td width="10000" align="center"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mariadb.svg" width="48" title="MariaDB" alt="MariaDB"/></td>
-        <td width="10000" align="center"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mssqlserver.svg" width="48" title="SQL Server" alt="SQL Server"/></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/technologies-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/technologies-light.svg">
+  <img src="assets/technologies-light.svg" width="100%" alt="Lenguajes: Java, C++, JavaScript, TypeScript y Python. Frontend: HTML, CSS, React, Alpine.js, Astro y Tailwind CSS. Backend y bases de datos: Node.js, Express, Spring Boot, MySQL, PostgreSQL, MariaDB y SQL Server.">
+</picture>
+
+<!-- Edita assets/technologies.json y ejecuta python tools/render_technologies.py para redistribuir los iconos. -->
 
 ---
 
