@@ -25,6 +25,12 @@ def render():
         svg = ET.Element(f'{{{NS}}}svg', {'viewBox': f'0 0 {width} {height}', 'width': str(width), 'height': str(height), 'role': 'img', 'aria-labelledby': 'title desc'})
         ET.SubElement(svg, f'{{{NS}}}title', {'id': 'title'}).text = 'Tecnologías de Nestor Hernández Díaz'
         ET.SubElement(svg, f'{{{NS}}}desc', {'id': 'desc'}).text = '; '.join(c['category'] + ': ' + ', '.join(i['name'] for i in c['icons']) for c in categories)
+        border = '#30363d' if theme == 'dark' else '#d1d9e0'
+        frame = ET.SubElement(svg, f'{{{NS}}}g', {'fill': 'none', 'stroke': border, 'stroke-width': '1'})
+        ET.SubElement(frame, f'{{{NS}}}rect', {'x': '.5', 'y': '.5', 'width': str(width - 1), 'height': str(height - 1)})
+        ET.SubElement(frame, f'{{{NS}}}path', {'d': f'M {label_width} 0 V {height}'})
+        for row in range(1, len(categories)):
+            ET.SubElement(frame, f'{{{NS}}}path', {'d': f'M 0 {row * row_height} H {width}'})
         for row, category in enumerate(categories):
             icons = category['icons']
             assert icons, 'Each category needs at least one icon'
