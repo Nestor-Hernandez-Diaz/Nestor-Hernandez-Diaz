@@ -35,18 +35,52 @@ Apasionado por la tecnologia, las interfaces modernas y la creación de solucion
 
 ### 🛠️ Tecnologías
 
+<!-- Para agregar una tecnología, añade una celda td con el mismo ancho y alineación dentro de su categoría. -->
 <table width="100%">
   <tr>
     <th align="left" nowrap>Lenguajes</th>
-    <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/>&nbsp; <img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" alt="C++"/>&nbsp; <img src="https://skillicons.dev/icons?i=javascript" width="48" title="JavaScript" alt="JavaScript"/>&nbsp; <img src="https://skillicons.dev/icons?i=typescript" width="48" title="TypeScript" alt="TypeScript"/>&nbsp; <img src="https://skillicons.dev/icons?i=python" width="48" title="Python" alt="Python"/></td>
+    <td width="10000">
+      <table width="100%">
+        <tr>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=java" width="48" title="Java" alt="Java"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48" title="C++" alt="C++"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=javascript" width="48" title="JavaScript" alt="JavaScript"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=typescript" width="48" title="TypeScript" alt="TypeScript"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=python" width="48" title="Python" alt="Python"/></td>
+        </tr>
+      </table>
+    </td>
   </tr>
   <tr>
     <th align="left" nowrap>Frontend</th>
-    <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" alt="HTML"/>&nbsp; <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" alt="CSS"/>&nbsp; <img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React"/>&nbsp; <img src="https://skillicons.dev/icons?i=alpinejs" width="48" title="Alpine.js" alt="Alpine.js"/>&nbsp; <img src="https://skillicons.dev/icons?i=astro" width="48" title="Astro" alt="Astro"/>&nbsp; <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" alt="Tailwind CSS"/></td>
+    <td width="10000">
+      <table width="100%">
+        <tr>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=html" width="48" title="HTML" alt="HTML"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=css" width="48" title="CSS" alt="CSS"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=react" width="48" title="React" alt="React"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=alpinejs" width="48" title="Alpine.js" alt="Alpine.js"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=astro" width="48" title="Astro" alt="Astro"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" alt="Tailwind CSS"/></td>
+        </tr>
+      </table>
+    </td>
   </tr>
   <tr>
     <th align="left" nowrap>Backend &amp; BD</th>
-    <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" alt="Node.js"/>&nbsp; <img src="https://skillicons.dev/icons?i=express" width="48" title="Express" alt="Express"/>&nbsp; <img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot" alt="Spring Boot"/>&nbsp; <img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" alt="MySQL"/>&nbsp; <img src="https://skillicons.dev/icons?i=postgresql" width="48" title="PostgreSQL" alt="PostgreSQL"/>&nbsp; <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mariadb.svg" width="48" title="MariaDB" alt="MariaDB"/>&nbsp; <img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mssqlserver.svg" width="48" title="SQL Server" alt="SQL Server"/></td>
+    <td width="10000">
+      <table width="100%">
+        <tr>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" alt="Node.js"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=express" width="48" title="Express" alt="Express"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring Boot" alt="Spring Boot"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" alt="MySQL"/></td>
+        <td width="10000" align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="48" title="PostgreSQL" alt="PostgreSQL"/></td>
+        <td width="10000" align="center"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mariadb.svg" width="48" title="MariaDB" alt="MariaDB"/></td>
+        <td width="10000" align="center"><img src="https://raw.githubusercontent.com/onemarc/tech-icons/main/icons/mssqlserver.svg" width="48" title="SQL Server" alt="SQL Server"/></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
