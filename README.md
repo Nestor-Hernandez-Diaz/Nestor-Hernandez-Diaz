@@ -1,6 +1,6 @@
-### <img src="assets/ui-icons/hand.svg" width="20" height="20" alt=""> Hello, I'm Nestor Hernández Díaz
+<img src="assets/banner.svg" width="100%" alt="Hello, I'm Nestor Hernández Díaz. Estudiante de Ingeniería de Sistemas e Informática en la Universidad Nacional de San Martín, Tarapoto, Perú.">
 
-Soy estudiante de **Ingeniería de Sistemas e Informática** en la Universidad Nacional de San Martín (Perú <img src="assets/ui-icons/map-pin.svg" width="20" height="20" alt="">).
+<!-- Edita tools/render_banner.py (o la foto en assets/banner/) y ejecuta python tools/render_banner.py para regenerar el banner. -->
 
 Apasionado por la tecnologia, las interfaces modernas y la creación de soluciones prácticas que resuelvan problemas reales. Me gusta construir aplicaciones completas, desde el frontend hasta la lógica de negocio y bases de datos.
 
